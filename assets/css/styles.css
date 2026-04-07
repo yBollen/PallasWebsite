@@ -1,1 +1,9 @@
 
+/* Kleine, veilige overrides op Bootstrap */
+header .lead {
+  max-width: 52ch;
+}
+
+.card {
+  border-radius: 0.75rem;
+}
